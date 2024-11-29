@@ -1,6 +1,6 @@
 const users = [
-    { name: 'Farid', age: 30 },
-    { name: 'Tai', age: 25 },
+    { name: 'Shalala', age: 30 },
+    { name: 'Raqsana', age: 25 },
   ];
   
   exports.fetchAll = () => {
